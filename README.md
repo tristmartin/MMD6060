@@ -1,0 +1,1 @@
+# L'utilisation d'arbres de décision pour classifier la présence ou l’absence de la maladie de Parkinson par la performance dactylographique ![image](https://github.com/tristmartin/MMD6060/assets/123830223/dd6b67e9-3de6-4bd0-a8d3-6d1623ee3b9a)
